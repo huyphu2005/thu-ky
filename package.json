@@ -1,0 +1,31 @@
+{
+  "name": "thu-ky",
+  "version": "1.0.0",
+  "description": "thu ky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyphu2005/thu-ky.git"
+  },
+  "keywords": [
+    "thuky"
+  ],
+  "author": "thuky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyphu2005/thu-ky/issues"
+  },
+  "homepage": "https://github.com/huyphu2005/thu-ky#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@napi-rs/canvas": "^1.0.0",
+    "canvas": "^3.2.3",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "openai": "^6.42.0",
+    "play-dl": "^1.9.7"
+  }
+}
